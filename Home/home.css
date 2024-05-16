@@ -758,6 +758,10 @@ form{
 	}
 }
 
+.navbar-logo img{
+    width: 10px; 
+    height: auto; 
+}
 
 
 

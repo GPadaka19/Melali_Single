@@ -535,8 +535,9 @@ form{
 }
 
 .footer-box img{
-	margin-bottom: 5px;
+	width: 130px;
 }
+
 
 .footer-box p{
 	font-size: var(--p-font);

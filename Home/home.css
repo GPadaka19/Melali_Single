@@ -42,7 +42,7 @@ header{
 }
 
 .logo img{
-	width: 100%;
+	width: 35%;
 	height: auto;
 }
 
@@ -191,7 +191,7 @@ header.sticky{
 	grid-template-columns: repeat(auto-fit, minmax(159px, auto));
 	align-items: center;
 	text-align: center;
-	gap: 3rem;
+	gap: 10rem;
 
 }
 
@@ -311,7 +311,7 @@ header.sticky{
 
 .box{
 	padding: 20px;
-	border: 2px solid #fff;
+	border: 0px solid #fff;
 	transition: all ease .50s;
 }
 
@@ -375,8 +375,9 @@ header.sticky{
 }
 
 .testimonial-img img{
-	width: 100%;
+	width: 80%;
 	height: auto;
+	border-radius: 50%;
 
 }
 
@@ -390,8 +391,8 @@ header.sticky{
 
 .tst-in{
 	background: #fff;
-	padding: 20px 30px;
-	border-radius: 20px;
+	padding: 50px 50px;
+	border-radius: 100px;
 }
 
 .tst-in p{
@@ -756,11 +757,6 @@ form{
 		width: 370px;
 		height: 450px;
 	}
-}
-
-.navbar-logo img{
-    width: 10px; 
-    height: auto; 
 }
 
 

@@ -1,6 +1,6 @@
 module.exports = {
   darkMode: 'class', // Menggunakan dark mode
-  content: ['./public/**/*.{html,js}', './index.html'], // Konten yang akan di-proses oleh Tailwind
+  content: ['./public/**/*.{html,js}','./index.html','./home/homeCopy.html'], // Konten yang akan di-proses oleh Tailwind
   theme: {
     extend: {
       colors: {
